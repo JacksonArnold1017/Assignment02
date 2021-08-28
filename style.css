@@ -4,4 +4,11 @@ h1 {
 
 .paragraph {
     color: midnightblue;
+    font: 200;
+}
+
+.copyright{
+    text-align: right;
+    color: blue;
+    
 }
